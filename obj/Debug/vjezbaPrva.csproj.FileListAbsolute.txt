@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\vjezbaPrva\bin\Debug\vjezbaPrva.exe.config
+C:\Users\ucenik\source\repos\vjezbaPrva\bin\Debug\vjezbaPrva.exe
+C:\Users\ucenik\source\repos\vjezbaPrva\bin\Debug\vjezbaPrva.pdb
+C:\Users\ucenik\source\repos\vjezbaPrva\obj\Debug\vjezbaPrva.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\vjezbaPrva\obj\Debug\vjezbaPrva.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\vjezbaPrva\obj\Debug\vjezbaPrva.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\vjezbaPrva\obj\Debug\vjezbaPrva.exe
+C:\Users\ucenik\source\repos\vjezbaPrva\obj\Debug\vjezbaPrva.pdb
